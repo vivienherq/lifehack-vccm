@@ -33,6 +33,9 @@ const TimelineScreen = () => {
                 </span>
                 <span className="postDate">20 July</span>
               </div>
+            </div>
+            <div className="postCenter">
+              <img className="postImg" src={require("./recyclingstock1.jpg")} />
               <div className="postTopRight">
                 Let’s Recycle Together is a new campaign by Zero Waste SG. We
                 aim to encourage more HDB residents to recycle using the
@@ -45,9 +48,6 @@ const TimelineScreen = () => {
                 Singapore. Your neighbours and other families are recycling,
                 join them today and let’s recycle together!
               </div>
-            </div>
-            <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -81,13 +81,13 @@ const TimelineScreen = () => {
                 </span>
                 <span className="postDate">25 July</span>
               </div>
+            </div>
+            <div className="postCenter">
+              <img className="postImg" src={require("./recyclingstock1.jpg")} />
               <div className="postTopRight">
                 There’s always a better use of resources. Think twice before
                 throwing anything!
               </div>
-            </div>
-            <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -120,6 +120,9 @@ const TimelineScreen = () => {
                 </span>
                 <span className="postDate">30 July</span>
               </div>
+            </div>
+            <div className="postCenter">
+              <img className="postImg" src={require("./recyclingstock1.jpg")} />
               <div className="postTopRight">
                 A 'green wardrobe' initiative led by a group of National
                 University of Singapore (NUS) students was launched on Monday,
@@ -130,9 +133,6 @@ const TimelineScreen = () => {
                 will be based on campus, as well as be roving to community
                 events in the South West District.
               </div>
-            </div>
-            <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -166,6 +166,9 @@ const TimelineScreen = () => {
                 </span>
                 <span className="postDate">1 August</span>
               </div>
+            </div>
+            <div className="postCenter">
+              <img className="postImg" src={require("./recyclingstock1.jpg")} />
               <div className="postTopRight">
                 This ground-up campaign complements the National Recycling
                 Programme by the National Environment Agency (NEA), where the
@@ -175,10 +178,6 @@ const TimelineScreen = () => {
                 other families are recycling, join them today and let’s recycle
                 together!
               </div>
-            </div>
-            <div className="postCenter">
-              /*
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -204,7 +203,6 @@ const TimelineScreen = () => {
         </div>
         <div data-aos="flip-right" className="boxes">
           <div className="postWrapper">
-            <img className="postImg" src={require("./recyclingstock1.jpg")} />
             <div className="postTop">
               <div className="postTopLeft">
                 <span className="postUsername">
@@ -212,6 +210,9 @@ const TimelineScreen = () => {
                 </span>
                 <span className="postDate">2 August</span>
               </div>
+            </div>
+            <div className="postCenter">
+              <img className="postImg" src={require("./recyclingstock1.jpg")} />
               <div className="postTopRight">
                 Our young green warriors actively organizing recycling
                 events...👍 This marks the start of a week of activities
@@ -221,7 +222,6 @@ const TimelineScreen = () => {
                 will convene to discuss the hazards of plastic waste.
               </div>
             </div>
-            <div className="postCenter"></div>
             <div className="postBottom">
               <div className="postBottomLeft">
                 <img
