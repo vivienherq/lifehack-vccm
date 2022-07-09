@@ -1,7 +1,12 @@
-import Homepage from "./screens/homepage";
+import "./App.css";
+import Requests from "./screens/requests";
+import Education from "./screens/education";
 
 function App() {
-  return <Homepage />;
+  return (
+    <Education />
+
+  );
 }
 
 export default App;
