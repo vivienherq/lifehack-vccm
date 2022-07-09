@@ -1,10 +1,12 @@
 import "./App.css";
+import { ChakraProvider } from "@chakra-ui/react";
+import ProjectScreen from "./screens/ProjectScreen.js";
 
 function App() {
   return (
-    <div>
-      <h1> Hello World!</h1>
-    </div>
+    <ChakraProvider>
+      <ProjectScreen />
+    </ChakraProvider>
   );
 }
 
