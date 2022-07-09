@@ -48,7 +48,12 @@ const ProjectScreen = () => {
                 className="postImg"
                 src={require("./plastic-bottle-creative-recycling-design-ideas-thumb640.jpg")}
               />
-              <span className="postText">My very first recycling project!</span>
+              <span className="postText">
+                {" "}
+                A lamp made with plastic bottle pieces I collected around my
+                neighbourhood! Planning on making anyone and am open to
+                suggestions on where I may collect plastic bottles! another one!
+              </span>
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -67,7 +72,7 @@ const ProjectScreen = () => {
                 <span className="postLikeCounter">30 people like it</span>
               </div>
               <div className="postBottomRight">
-                <span className="postCommentText"> comments</span>
+                <span className="postCommentText">6 comments</span>
               </div>
             </div>
           </div>
@@ -85,9 +90,13 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./plastic-bottle-creative-recycling-design-ideas-thumb640.jpg")}
+                src={require("./house-light-designrulz-2.webp")}
               />
-              <span className="postText">My very first recycling project!</span>
+              <span className="postText">
+                My very first recycling project for my son's new room! Made with
+                olds books collected from this application and of course, withe
+                the previous owner's permission!
+              </span>
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -103,10 +112,10 @@ const ProjectScreen = () => {
                   //onClick={likeHandler}
                   alt=""
                 />
-                <span className="postLikeCounter">30 people like it</span>
+                <span className="postLikeCounter">26 people like it</span>
               </div>
               <div className="postBottomRight">
-                <span className="postCommentText"> comments</span>
+                <span className="postCommentText">3 comments</span>
               </div>
             </div>
           </div>
@@ -124,9 +133,12 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./plastic-bottle-creative-recycling-design-ideas-thumb640.jpg")}
+                src={require("./CLOCK-DESIGNRULZ-00643.webp")}
               />
-              <span className="postText">My very first recycling project!</span>
+              <span className="postText">
+                *REQUEST: Collecting magazines in the East area!* A clock DIY
+                for my newly renovated living room!
+              </span>
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -142,10 +154,10 @@ const ProjectScreen = () => {
                   //onClick={likeHandler}
                   alt=""
                 />
-                <span className="postLikeCounter">30 people like it</span>
+                <span className="postLikeCounter">290 people like it</span>
               </div>
               <div className="postBottomRight">
-                <span className="postCommentText"> comments</span>
+                <span className="postCommentText">9 comments</span>
               </div>
             </div>
           </div>
@@ -161,11 +173,12 @@ const ProjectScreen = () => {
               <div className="postTopRight"></div>
             </div>
             <div className="postCenter">
-              <img
-                className="postImg"
-                src={require("./plastic-bottle-creative-recycling-design-ideas-thumb640.jpg")}
-              />
-              <span className="postText">My very first recycling project!</span>
+              <img className="postImg" src={require("./3.jpg")} />
+              <span className="postText">
+                Love wine in the family and have been collecting the corks for a
+                while! Figured to make something out of all of them. What do you
+                think!
+              </span>
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -181,10 +194,10 @@ const ProjectScreen = () => {
                   //onClick={likeHandler}
                   alt=""
                 />
-                <span className="postLikeCounter">30 people like it</span>
+                <span className="postLikeCounter">24 people like it</span>
               </div>
               <div className="postBottomRight">
-                <span className="postCommentText"> comments</span>
+                <span className="postCommentText">8 comments</span>
               </div>
             </div>
           </div>
@@ -202,9 +215,13 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./plastic-bottle-creative-recycling-design-ideas-thumb640.jpg")}
+                src={require("./159768ea2230fa2119d7acf2fe15108d.jpg")}
               />
-              <span className="postText">My very first recycling project!</span>
+              <span className="postText">
+                A quick DIY! Head over to my instagram @aa2211 for the tutorial
+                on how to make this quick and simply recycling project! Would
+                love to hear from you on similar projects!
+              </span>
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -220,10 +237,10 @@ const ProjectScreen = () => {
                   //onClick={likeHandler}
                   alt=""
                 />
-                <span className="postLikeCounter">30 people like it</span>
+                <span className="postLikeCounter">40 people like it</span>
               </div>
               <div className="postBottomRight">
-                <span className="postCommentText"> comments</span>
+                <span className="postCommentText">12 comments</span>
               </div>
             </div>
           </div>
@@ -241,9 +258,12 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./plastic-bottle-creative-recycling-design-ideas-thumb640.jpg")}
+                src={require("./junk-necklace-1_600x.jpgv1573382513.jpg")}
               />
-              <span className="postText">My very first recycling project!</span>
+              <span className="postText">
+                {" "}
+                An easy DIY to keep the kids busy!
+              </span>
             </div>
             <div className="postBottom">
               <div className="postBottomLeft">
@@ -262,7 +282,7 @@ const ProjectScreen = () => {
                 <span className="postLikeCounter">30 people like it</span>
               </div>
               <div className="postBottomRight">
-                <span className="postCommentText"> comments</span>
+                <span className="postCommentText">10 comments</span>
               </div>
             </div>
           </div>
