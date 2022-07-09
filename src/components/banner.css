@@ -1,9 +1,18 @@
+/* .containerPage {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* min-height:100vh; */
+    /* height: 100px;
+    background:blueviolet; */
+  /* } */
+
 .containerBanner {
     display:flex;
     justify-content:center;
     align-items:center;
     /* min-height:100vh; */
-    height: 580px;
+    height: 500px;
     /* background:green; */
   }
 
@@ -14,3 +23,46 @@
     font-size:40px;
     text-align: center;
 }
+
+.floating-icon {
+    /* background-color: var(--light-blue); */
+    background-color: green;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    /* bottom: 0; */
+    transform: translateX(-50%);
+    cursor: pointer;
+  }
+
+  .floating-icon a {
+    border: 1px solid #fff;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .mouse {
+    transform: translateY(-25%);
+    animation: bounce 0.8s ease infinite alternate;
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: translateY(-25%);
+    }
+    100% {
+      transform: translateY(25%);
+    }
+  }

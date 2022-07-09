@@ -20,6 +20,7 @@ function Homepage() {
       </div>
 
       <div className="featureContainer">
+        <h4> Our features </h4>
         <FeatureCard
           title={"Find nearest recycling bin"}
           description={"Find your nearest recycling bin."}
