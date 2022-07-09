@@ -13,7 +13,7 @@ import styled from "styled-components";
 const theme = {
   blue: {
     default: "#272b34",
-    hover: "#4b7a47"
+    hover: "#549e00"
   },
   pink: {
     default: "#e91e63",

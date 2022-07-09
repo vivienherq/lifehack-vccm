@@ -46,7 +46,6 @@ function Education() {
         
         <div className="main_content">
             
-            <h3>ReusenRecycle</h3>
             {listItems}
         </div>
 

@@ -1,1 +1,2 @@
-import React from React;
+import React from 'react';
+
