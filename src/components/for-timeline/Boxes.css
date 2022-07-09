@@ -1,6 +1,6 @@
 .boxes{
     margin: 20px;
-    margin-top: 150px;
+    margin-top: 100px;
     background-color: rgb(198, 177, 198);
     overflow: hidden;
     height: 500px;
@@ -64,6 +64,7 @@
   }
   
   .postBottom{
+    margin-bottom: 40px;
       display: flex;
       align-items: center;
       justify-content: space-between;
