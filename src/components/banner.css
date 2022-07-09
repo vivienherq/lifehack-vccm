@@ -1,0 +1,16 @@
+.containerBanner {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* min-height:100vh; */
+    height: 580px;
+    /* background:green; */
+  }
+
+.banner-slogan {
+    font-family: sans-serif;
+    color: white;
+    font-weight:800;
+    font-size:40px;
+    text-align: center;
+}

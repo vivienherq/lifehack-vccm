@@ -1,11 +1,7 @@
-import "./App.css";
+import Homepage from "./screens/homepage";
 
 function App() {
-  return (
-    <div>
-      <h1> Hello World!</h1>
-    </div>
-  );
+  return <Homepage />;
 }
 
 export default App;
