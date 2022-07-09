@@ -1,10 +1,11 @@
 import "./App.css";
+import Requests from "./screens/requests";
+import Education from "./screens/education";
 
 function App() {
   return (
-    <div>
-      <h1> Hello World!</h1>
-    </div>
+    <Education />
+
   );
 }
 
