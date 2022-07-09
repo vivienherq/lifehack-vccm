@@ -20,8 +20,8 @@ function Homepage() {
       <div className="logo">
         <img className="logoImg" src={require("./cuterecyclingbin1.png")} />
         <p className="logo-text">
-          RECYCLE
-          <span>EEE</span>
+          RECYC
+          <span>LINKS</span>
         </p>
       </div>
 
@@ -43,6 +43,7 @@ function Homepage() {
             "once upon a time, the game is a higly-strategic, kitty-powered version of Russian Roulette."
           }
           imgUrl="https://www.simpleimageresizer.com/_uploads/photos/7787f098/children-recycling-tips-cc_1_720x240.jpg"
+          routeName={"/project"}
         />
 
         <FeatureCard
@@ -51,6 +52,7 @@ function Homepage() {
             "Praying for you every day during your illness! Remember you are loved and God is on your side."
           }
           imgUrl="https://www.simpleimageresizer.com/_uploads/photos/7787f098/a2c01ce7c1bccab85afdb9666cd58005e4f605bd_720x240.jpeg"
+          routeName={"/requests"}
         />
 
         <FeatureCard
