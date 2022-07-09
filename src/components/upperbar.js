@@ -60,9 +60,9 @@ const Upperbar = () => {
         <Heading
           color={colorMode === "light" ? "black" : "white"}
           size={isMobile ? "sm" : "xl"}
-          fontFamily="Sansita Swashed"
+          fontFamily="Sans Serif"
         >
-          vccm!!
+          RECYCLINKS
         </Heading>
       </Flex>
       <form>

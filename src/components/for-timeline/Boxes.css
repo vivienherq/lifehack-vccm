@@ -1,16 +1,16 @@
 .boxes{
     margin: 20px;
     margin-top: 100px;
-    background-color: rgb(198, 177, 198);
+    background-color: #e4f3a0;
     overflow: hidden;
     height: 500px;
-    max-height: 35vh;
+    max-height: 50vh;
     box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.3);
     border-radius: 10px 10px 10px 10px;
 }
 
 .grids {
-    max-width: 70%;
+    max-width: 50%;
     margin: auto;
 }
 
@@ -64,7 +64,7 @@
   }
   
   .postBottom{
-    margin-bottom: 40px;
+    margin-top: 100px;
       display: flex;
       align-items: center;
       justify-content: space-between;

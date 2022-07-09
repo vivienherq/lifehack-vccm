@@ -20,7 +20,16 @@ const ProjectScreen = () => {
   };*/
 
   return (
-    <div className="App">
+    <div
+      className="App"
+      style={{
+        backgroundImage: `url("https://img.freepik.com/free-vector/gradient-background-green-tones_23-2148374530.jpg?w=360")`,
+        backgroundPosition: "center",
+        backgroundSize: "cover",
+        backgroundRepeat: "no-repeat",
+        marginBottom: "50px",
+      }}
+    >
       <Upperbar />
       <h1>Recycling Projects</h1>
       <div className="grids">
