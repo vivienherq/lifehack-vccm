@@ -1,13 +1,13 @@
 import "./App.css";
-import Requests from "./screens/requests";
-import Education from "./screens/education";
-import Homepage from "./screens/homepage";
+import { ChakraProvider } from "@chakra-ui/react";
+import ProjectScreen from "./screens/ProjectScreen.js";
+import TimelineScreen from "./screens/TimelineScreen.js";
 
 function App() {
   return (
-    // <Education />
-    <Homepage/>
-
+    <ChakraProvider>
+      <TimelineScreen />
+    </ChakraProvider>
   );
 }
 
