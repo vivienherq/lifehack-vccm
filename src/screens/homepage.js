@@ -35,6 +35,7 @@ function Homepage() {
           title={"Find nearest recycling bin"}
           description={"Find your nearest recycling bin."}
           imgUrl="https://www.simpleimageresizer.com/_uploads/photos/7787f098/recycling-bin-in-singapore_720x240.jpg"
+          routeName={"/map"}
         />
 
         <FeatureCard
