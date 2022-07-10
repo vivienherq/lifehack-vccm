@@ -1,0 +1,23 @@
+.container {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: #2b3039;
+    /* background-color: green; */
+    justify-content: center;
+}
+
+.search_bar {
+    padding: 10px;
+    margin: 10px 10px;
+    border-radius:10px;
+    width: 300px;
+    background-color: #2b3039;
+    /* background-color: blueviolet; */
+
+}
+
+.search_button{
+    color: white;
+    size: 500px;
+
+}

@@ -4,6 +4,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 import ProjectScreen from "./screens/ProjectScreen.js";
 import TimelineScreen from "./screens/TimelineScreen.js";
 import Homepage from "./screens/homepage";
+import Map from "./screens/map";
 import Requests from "./screens/requests";
 import Education from "./screens/education";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
@@ -16,6 +17,7 @@ function App() {
           <Route path="/" element={<Homepage />} />
           <Route path="/requests" element={<Requests />} />
           <Route path="/education" element={<Education />} />
+          <Route path="/map" element={<Map />} />
           <Route
             path="/project"
             element={
