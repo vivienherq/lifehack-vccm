@@ -1,3 +1,6 @@
+# How to view our website
+Clone git repo -> open in vscode -> npm install -> npm start
+
 # Recyclink
 
 by Team vccm (Chen Shun, Foo Shi Yu, He Vivien Ruo Qing, Micaella Ilagan)
