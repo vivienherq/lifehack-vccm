@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { FaUserCircle } from "react-icons/fa";
+import "./project.css";
 
 import "../components/for-feed/Boxes.css";
 import "../components/upperbar.js";
@@ -31,7 +32,10 @@ const ProjectScreen = () => {
       }}
     >
       <Upperbar />
-      <h1>Recycling Projects</h1>
+      <div className="project-title">
+        <h4>Recycling Projects</h4>
+      </div>
+
       <div className="grids">
         <div data-aos="fade-left" className="boxes">
           <div className="postWrapper">
