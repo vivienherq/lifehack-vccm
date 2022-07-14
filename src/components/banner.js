@@ -46,13 +46,12 @@ export const Banner = () => {
         </div>
         <div>
           <img
-            src={require("./cuterecyclingbin2clouds.png")}
+            src={"./homepage/cuterecyclingbin2clouds.png"}
             style={{
               width: 400,
               height: 600,
             }}
           />
-          {/* <img src="https://raw.githubusercontent.com/judygab/web-dev-projects/e17c7bbf4d4d4de447ca1211b06aec66912e695d/personal-portfolio/src/assets/img/header-img.svg"></img> */}
         </div>
       </div>
       <div className="floating-icon">
