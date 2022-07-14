@@ -1,5 +1,6 @@
 # How to view our website
-Clone git repo -> open in vscode -> npm install -> npm start
+`npm install` 
+`npm start`
 
 # Recyclink
 
