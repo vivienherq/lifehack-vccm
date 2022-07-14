@@ -3,7 +3,7 @@ Clone git repo -> open in vscode -> npm install -> npm start
 
 # Recyclink
 
-by Team vccm (Chen Shun, Foo Shi Yu, He Vivien Ruo Qing, Micaella Ilagan)
+by Team vccm (Chen Shun, Foo Shi Yu, He Ruoqing Vivien, Micaella Ilagan)
 
 Recyclinks is a comprehensive recycling web app to encourage and facilitate recycling in Singapore via a three-pronged approach that addresses the convenience and culture of recycling in Singapore.
 
