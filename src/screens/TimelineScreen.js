@@ -35,7 +35,7 @@ const TimelineScreen = () => {
               </div>
             </div>
             <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
+              <img className="postImg" src="./timeline/recyclingstock1.jpg" />
               <div className="postTopRight">
                 Let’s Recycle Together is a new campaign by Zero Waste SG. We
                 aim to encourage more HDB residents to recycle using the
@@ -53,13 +53,13 @@ const TimelineScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -83,7 +83,7 @@ const TimelineScreen = () => {
               </div>
             </div>
             <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
+              <img className="postImg" src="./timeline/recyclingstock1.jpg" />
               <div className="postTopRight">
                 There’s always a better use of resources. Think twice before
                 throwing anything!
@@ -93,13 +93,13 @@ const TimelineScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -122,7 +122,7 @@ const TimelineScreen = () => {
               </div>
             </div>
             <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
+              <img className="postImg" src="./timeline/recyclingstock1.jpg" />
               <div className="postTopRight">
                 A 'green wardrobe' initiative led by a group of National
                 University of Singapore (NUS) students was launched on Monday,
@@ -138,13 +138,13 @@ const TimelineScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -168,7 +168,7 @@ const TimelineScreen = () => {
               </div>
             </div>
             <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
+              <img className="postImg" src="./timeline/recyclingstock1.jpg" />
               <div className="postTopRight">
                 This ground-up campaign complements the National Recycling
                 Programme by the National Environment Agency (NEA), where the
@@ -183,13 +183,13 @@ const TimelineScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -212,7 +212,7 @@ const TimelineScreen = () => {
               </div>
             </div>
             <div className="postCenter">
-              <img className="postImg" src={require("./recyclingstock1.jpg")} />
+              <img className="postImg" src="./timeline/recyclingstock1.jpg" />
               <div className="postTopRight">
                 Our young green warriors actively organizing recycling
                 events...👍 This marks the start of a week of activities
@@ -226,13 +226,13 @@ const TimelineScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />

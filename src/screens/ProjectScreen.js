@@ -50,7 +50,7 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./plastic-bottle-creative-recycling-design-ideas-thumb640.jpg")}
+                src="./projects/plastic-bottle-creative-recycling-design-ideas-thumb640.jpg"
               />
               <span className="postText">
                 {" "}
@@ -63,13 +63,13 @@ const ProjectScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -94,7 +94,7 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./house-light-designrulz-2.webp")}
+                src="./projects/house-light-designrulz-2.webp"
               />
               <span className="postText">
                 My very first recycling project for my son's new room! Made with
@@ -106,13 +106,13 @@ const ProjectScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -137,7 +137,7 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./CLOCK-DESIGNRULZ-00643.webp")}
+                src="./projects/CLOCK-DESIGNRULZ-00643.webp"
               />
               <span className="postText">
                 *REQUEST: Collecting magazines in the East area!* A clock DIY
@@ -148,13 +148,13 @@ const ProjectScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -177,7 +177,10 @@ const ProjectScreen = () => {
               <div className="postTopRight"></div>
             </div>
             <div className="postCenter">
-              <img className="postImg" src={require("./3.jpg")} />
+              <img 
+                className="postImg" 
+                src="./projects/3.jpg"
+              />
               <span className="postText">
                 Love wine in the family and have been collecting the corks for a
                 while! Figured to make something out of all of them. What do you
@@ -188,13 +191,13 @@ const ProjectScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -219,7 +222,7 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./159768ea2230fa2119d7acf2fe15108d.jpg")}
+                src="./projects/159768ea2230fa2119d7acf2fe15108d.jpg"
               />
               <span className="postText">
                 A quick DIY! Head over to my instagram @aa2211 for the tutorial
@@ -231,13 +234,13 @@ const ProjectScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
@@ -262,7 +265,7 @@ const ProjectScreen = () => {
             <div className="postCenter">
               <img
                 className="postImg"
-                src={require("./junk-necklace-1_600x.jpgv1573382513.jpg")}
+                src="./projects/junk-necklace-1_600x.jpgv1573382513.jpg"
               />
               <span className="postText">
                 {" "}
@@ -273,13 +276,13 @@ const ProjectScreen = () => {
               <div className="postBottomLeft">
                 <img
                   className="likeIcon"
-                  src={require("./like.png")}
+                  src="./projects/like.png"
                   //onClick={likeHandler}
                   alt=""
                 />
                 <img
                   className="likeIcon"
-                  src={require("./heart.png")}
+                  src="./projects/heart.png"
                   //onClick={likeHandler}
                   alt=""
                 />
